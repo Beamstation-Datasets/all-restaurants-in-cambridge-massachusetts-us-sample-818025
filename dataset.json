@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Complete dataset of all active restaurant listings in Cambridge, Massachusetts with a population of over 118k. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
   "config_name": "All Restaurants in Cambridge, Massachusetts, US",
-  "export_job_id": "22e1ae20-8880-4e23-8c3a-e492ce454f26",
+  "export_job_id": "cf86ea0a-1641-45ee-b0c2-037a0d8a82e3",
   "github_org": "Beamstation-Datasets",
   "id_short": 818025,
   "location_name": "Cambridge",
   "location_type": "city",
   "repo_name": "all-restaurants-in-cambridge-massachusetts-us-sample-818025",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/818025/beamstation_818025_restaurants-us-ma_SAMPLE_DIST.csv",
-  "sample_pct": 9.89,
+  "sample_pct": 10.0,
   "sample_records": 45,
-  "sample_sha256": "130704d85996b275e081c54a4050f6e139f6443a76a9657648cd065fa1771c0b",
-  "sample_size_bytes": 169134,
-  "total_records": 455,
-  "updated_at": "2026-04-07T13:24:51.084764+00:00"
+  "sample_sha256": "88fb8fd77533227036f032c2d192dd326b8aebda68ce061a127e93e86eb8aed9",
+  "sample_size_bytes": 170787,
+  "total_records": 450,
+  "updated_at": "2026-04-14T20:33:08.320645+00:00"
 }
