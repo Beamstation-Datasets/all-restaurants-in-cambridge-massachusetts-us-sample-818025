@@ -1,6 +1,6 @@
 # All Restaurants in Cambridge, Massachusetts, US
 
-> Free BeamStation sample export with 45 rows and masked direct-contact fields.
+> Free BeamStation sample export with 43 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `818025` |
 | Location | Cambridge |
 | Category | Restaurants |
-| Full dataset size | 450 records |
-| Free sample size | 45 records (10.0%) |
-| Last export | 2026-04-14T20:33:08.320645+00:00 |
+| Full dataset size | 435 records |
+| Free sample size | 43 records (9.89%) |
+| Last export | 2026-04-21T22:46:45.598711+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-cambridge-massachusetts-us-sample-818025/releases/download/sample-latest/beamstation_818025_restaurants-us-ma_SAMPLE_DIST.csv) |
 
 ## What is in this sample
