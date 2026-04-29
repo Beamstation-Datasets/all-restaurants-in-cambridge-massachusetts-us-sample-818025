@@ -1,12 +1,12 @@
 {
-  "export_job_id": "ac0f69f3-75ee-4f37-95ee-be7eea68d3f1",
+  "export_job_id": "c7d0a07b-e876-46da-9692-3e7e70fd6eeb",
   "id_short": 818025,
-  "published_at": "2026-04-22T08:00:11Z",
+  "published_at": "2026-04-29T19:15:01Z",
   "repo_name": "all-restaurants-in-cambridge-massachusetts-us-sample-818025",
   "sample_asset_name": "beamstation_818025_restaurants-us-ma_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/818025/beamstation_818025_restaurants-us-ma_SAMPLE_DIST.csv",
-  "sample_records": 43,
-  "sample_sha256": "a941bb1700ffaadad34d905be0051c4006c8c355aea29a82f4f23d9d6976c529",
-  "sample_size_bytes": 162437,
-  "total_records": 435
+  "sample_records": 44,
+  "sample_sha256": "656b6366e185d8d4e087df27f0963b2bea1a169e6521222bdc4519987a7be65b",
+  "sample_size_bytes": 166477,
+  "total_records": 444
 }
